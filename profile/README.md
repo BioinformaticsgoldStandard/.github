@@ -1,1 +1,2 @@
-# Front Page
+# Gold Standard
+Front Page
